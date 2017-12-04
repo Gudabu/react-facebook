@@ -1,4 +1,4 @@
-export default from './FacebookProvider';
+export { default } from './FacebookProvider';
 export FacebookProvider from './FacebookProvider';
 
 export Parser from './Parser';
